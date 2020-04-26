@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rezon\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rezon\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Domba Tersesat.328496499.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rezon\Documents\Yuniti\Domba Tersesat" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Camera" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+          </e>
+          <e p="Helper" t="Include">
+            <e p="TagManager.cs" t="Include" />
+          </e>
+          <e p="Platform" t="Include">
+            <e p="ColorSwitchController.cs" t="Include" />
+            <e p="DoorController.cs" t="Include" />
+            <e p="FinishedLevel.cs" t="Include" />
+            <e p="MovingPlatform.cs" t="Include" />
+            <e p="PlatformButtonController.cs" t="Include" />
+            <e p="PlatfromButton.cs" t="Include" />
+            <e p="PlatfromSoundFX.cs" t="Include" />
+            <e p="RotatePlatform.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerColorController.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Domba Tersesat.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
